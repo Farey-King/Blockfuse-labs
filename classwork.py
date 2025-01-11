@@ -2,25 +2,25 @@
 
 def asc(arr):
     """
-    Sorts the given array in ascending order.
+    
     
     Parameters:
-    arr (list): The list of numbers to be sorted.
+    arr (list): 
     
     Returns:
-    list: A new list with the numbers sorted in ascending order.
+    list: 
     """
     return sorted(arr)
 
 def desc(arr):
     """
-    Sorts the given array in descending order.
+    
     
     Parameters:
-    arr (list): The list of numbers to be sorted.
+    arr (list): 
     
     Returns:
-    list: A new list with the numbers sorted in descending order.
+    list: 
     """
     return sorted(arr, reverse=True)
 
